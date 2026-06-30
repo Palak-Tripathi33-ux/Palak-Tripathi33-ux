@@ -8,15 +8,24 @@ BBA student (CGPA 8.29) building BI dashboards and analytical models across BFSI
 
 Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-* **Languages & Query:** Python (Pandas, NumPy, Seaborn), SQL (PostgreSQL), DAX
+### 💻 Languages & Query
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* **BI & Visualization:** Power BI, Tableau, Excel (Advanced: PivotTables, VLOOKUP/XLOOKUP, Power Query), Looker Studio
+### 📊 BI & Visualization
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-* **Data & Reporting:** Data Cleaning, Exploratory Data Analysis, Dashboard Design, Report Automation
-
-* **Tools:** Power Query, Google Sheets, Canva, Zoho, Jibble
+### 📈 Data & Reporting
+* Data Cleaning & Report Automation
+* Exploratory Data Analysis (EDA)
+* Dashboard Design & LTV:CAC Frameworks
 
 ## Featured Projects
 
