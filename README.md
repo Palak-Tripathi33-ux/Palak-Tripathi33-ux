@@ -28,7 +28,7 @@ Built a PostgreSQL-to-Power BI pipeline analyzing $55M in revenue across 1M+ tra
 
 Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
 
-* **E-Commerce Analytics** — Power BI
+* **E-Commerce Analytics** — Power BI [GITHUB](https://github.com/Palak-Tripathi33-ux/E-Commerce-Analytics-PowerBI)
 
 Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
 
