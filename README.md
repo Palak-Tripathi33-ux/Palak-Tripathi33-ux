@@ -20,7 +20,7 @@ Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales acros
 
 ## Featured Projects
 
-* **Credit Card Financial Analytics** — Power BI, DAX, PostgreSQL
+* **Credit Card Financial Analytics** — Power BI, DAX, PostgreSQL [GitHb](https://github.com/Palak-Tripathi33-ux/Credit_Card_Financial_Analytics_Power-BI)
 
 Built a PostgreSQL-to-Power BI pipeline analyzing $55M in revenue across 1M+ transactions. Segmented customers into 6 job groups and 5 income bands using DAX, and identified a $14M peak quarter through QoQ trend analysis across swipe, chip, and online channels.
 
