@@ -52,7 +52,11 @@ Drafted a salary-benchmarked job description for a Data Analyst role (₹7–10 
 
 ## Certifications
 
-Business Analytics Specialization (Wharton Online), Introduction to Project Management (IBM), Data Analytics Job Simulation (Deloitte via Forage), AI for Customer Experience: CX Automation and Analytics (Udemy), MS Office With Canva: Word, Excel, PowerPoint, Canva All in One (Udemy).
+* Business Analytics Specialization (Wharton Online)
+* Introduction to Project Management (IBM)
+* Data Analytics Job Simulation (Deloitte via Forage)
+* AI for Customer Experience: CX Automation and Analytics (Udemy)
+* MS Office With Canva: Word, Excel, PowerPoint, Canva All in One (Udemy).
 
 ## Learning
 
