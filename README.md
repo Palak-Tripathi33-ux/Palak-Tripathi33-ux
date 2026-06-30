@@ -24,6 +24,10 @@ Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales acros
 
 Built a PostgreSQL-to-Power BI pipeline analyzing $55M in revenue across 1M+ transactions. Segmented customers into 6 job groups and 5 income bands using DAX, and identified a $14M peak quarter through QoQ trend analysis across swipe, chip, and online channels.
 
+* **Blinkit Quick-Commerce Analytics** — Power BI
+
+Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
+
 * **E-Commerce Analytics** — Power BI
 
 Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
@@ -31,10 +35,6 @@ Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profi
 * **Vrinda Store Sales Dashboard** — Excel
 
 Interactive dashboard analyzing 31,000+ transactions and ₹21.17M in revenue, tracking customer demographics, top states, and channel performance across Amazon, Flipkart, and Myntra.
-
-* **Blinkit Quick-Commerce Analytics** — Power BI
-
-Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
 
 * **Diwali Sales Analysis** — Python (Pandas, Seaborn)
 
