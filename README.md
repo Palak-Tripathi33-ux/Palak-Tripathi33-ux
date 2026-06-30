@@ -41,7 +41,7 @@ Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet typ
 
 Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
 
-* **Vrinda Store Sales Dashboard** — Excel 
+* **Vrinda Store Sales Dashboard** — Excel [GITHUB](https://github.com/Palak-Tripathi33-ux/Excel_Sales_Dashboard_Vrinda_Store)
 
 Interactive dashboard analyzing 31,000+ transactions and ₹21.17M in revenue, tracking customer demographics, top states, and channel performance across Amazon, Flipkart, and Myntra.
 
