@@ -1,7 +1,7 @@
 # Palak Tripathi 🚀
 ### Business Analyst | Power BI • SQL • DAX • Python • Tableau
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnitripathi33) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-tripathi-37a56234a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinnitripathi33@gmail.com)
 
 **Detail-oriented BBA student (CGPA 8.29) with a proven track record in Market Research, Consumer Behavior, and Data Analytics.** I specialize in bridging the gap between business strategy and data, building robust BI dashboards and analytical models across **BFSI (Banking), Retail/E-commerce, and Human Resources (HR)** domains. 
