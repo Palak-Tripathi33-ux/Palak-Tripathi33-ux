@@ -1,95 +1,116 @@
 # Palak Tripathi 🚀
 ### Business Analyst | Power BI • SQL • DAX • Python • Tableau
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-tripathi-37a56234a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinnitripathi33@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/palak-tripathi-37a56234a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vinnitripathi33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-**Detail-oriented BBA student (CGPA 8.29) with a proven track record in Market Research, Consumer Behavior, and Data Analytics.** I specialize in bridging the gap between business strategy and data, building robust BI dashboards and analytical models across **BFSI (Banking), Retail/E-commerce, and Human Resources (HR)** domains. 
-
-Focused on turning raw, complex transactional data into data-driven, decision-ready reports using Power Query, advanced DAX, and SQL pipelines.
+> **Detail-oriented BBA student (CGPA 8.29) with a proven track record in Market Research, Consumer Behavior, and Data Analytics.** I specialize in bridging the gap between business strategy and data, building robust BI dashboards and analytical models across **BFSI (Banking), Retail/E-commerce, and Human Resources (HR)** domains. 
+> 
+> Focused on turning raw, complex transactional data into data-driven, decision-ready reports using Power Query, advanced DAX, and SQL pipelines.
 
 ---
 
 ## ⏳ Currently Working On
-* **Blinkit Sales Analytics Dashboard (Power BI)** — analyzing $1.20M in sales across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
+
+* 📊 **Blinkit Sales Analytics Dashboard (Power BI)** — Optimizing dynamic DAX measures to analyze $1.20M in sales across 8,523 items, with granular breakdowns by outlet type, size, location tier, and item category.
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Query
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 BI & Visualization
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 📈 Data & Reporting
-* Data Cleaning & Report Automation
-* Exploratory Data Analysis (EDA)
-* Dashboard Design & LTV:CAC Frameworks
+### 📈 Functional & Methodologies
 
-## Featured Projects
+* **Data Core:** Data Cleaning, Automated ETL, Exploratory Data Analysis (EDA)
+* **Design & Business:** Human-Centered Dashboard Design, UI/UX for BI, LTV:CAC Frameworks
 
-* **Credit Card Financial Analytics** — Power BI, DAX, PostgreSQL [GITHUB](https://github.com/Palak-Tripathi33-ux/Credit_Card_Financial_Analytics_Power-BI)
+---
 
-Built a PostgreSQL-to-Power BI pipeline analyzing $55M in revenue across 1M+ transactions. Segmented customers into 6 job groups and 5 income bands using DAX, and identified a $14M peak quarter through QoQ trend analysis across swipe, chip, and online channels.
+## 🚀 Featured Projects
 
-* **Blinkit Quick-Commerce Analytics** — Power BI [GITHUB](https://github.com/Palak-Tripathi33-ux/Blinkit-Quick-Commerce-Analytics)
+### 💳 [Credit Card Financial Analytics](https://github.com/Palak-Tripathi33-ux/Credit_Card_Financial_Analytics_Power-BI) | `Power BI` `DAX` `PostgreSQL`
 
-Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
+* **The Insight:** Built a live PostgreSQL-to-Power BI pipeline analyzing **$55M in revenue** across 1M+ transactions. 
+* **Action:** Segmented customers into 6 job groups and 5 income bands using complex DAX measures, identifying a **$14M peak quarter** through QoQ trend analysis across swipe, chip, and online channels.
+* _💡 [View Repository](https://github.com/Palak-Tripathi33-ux/Credit_Card_Financial_Analytics_Power-BI)_
 
-* **E-Commerce Analytics** — Power BI [GITHUB](https://github.com/Palak-Tripathi33-ux/E-Commerce-Analytics-PowerBI)
+### 🛍️ [Blinkit Quick-Commerce Analytics](https://github.com/Palak-Tripathi33-ux/Blinkit-Quick-Commerce-Analytics) | `Power BI` `Data Modeling`
 
-Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
+* **The Insight:** Full-scale sales analysis covering **$1.20M revenue** across 8,523 items.
+* **Action:** Created interactive matrices to breakdown metrics by outlet type, outlet size, location tier, and item category to pinpoint underperforming retail units.
+* _💡 [View Repository](https://github.com/Palak-Tripathi33-ux/Blinkit-Quick-Commerce-Analytics)_
 
-* **Vrinda Store Sales Dashboard** — Excel [GITHUB](https://github.com/Palak-Tripathi33-ux/Excel_Sales_Dashboard_Vrinda_Store)
+### 📦 [E-Commerce Analytics Dashboard](https://github.com/Palak-Tripathi33-ux/E-Commerce-Analytics-PowerBI) | `Power BI` `UI/UX`
 
-Interactive dashboard analyzing 31,000+ transactions and ₹21.17M in revenue, tracking customer demographics, top states, and channel performance across Amazon, Flipkart, and Myntra.
+* **The Insight:** High-level overview of critical e-commerce KPIs capturing **438K revenue** across 6K orders.
+* **Action:** Designed executive-facing views tracking profit trends and category-level deep dives mapped across Indian states.
+* _💡 [View Repository](https://github.com/Palak-Tripathi33-ux/E-Commerce-Analytics-PowerBI)_
 
-* **Diwali Sales Analysis** — Python (Pandas, Seaborn) [GITHUB](https://github.com/Palak-Tripathi33-ux/Diwali_Sales_Analysis_Python)
+### 🏪 [Vrinda Store Sales Analysis](https://github.com/Palak-Tripathi33-ux/Excel_Sales_Dashboard_Vrinda_Store) | `Advanced Excel`
 
-Exploratory data analysis on festive-season transactions; identified that women aged 26–35 drive the highest spend, with IT and healthcare sectors showing the strongest purchasing activity.
+* **The Insight:** Interactive dynamic tracker analyzing **31,000+ transactions (₹21.17M revenue)**.
+* **Action:** Built multi-layered PivotTables and dynamic charts tracking customer demographics, top-performing states, and channel efficiency across Amazon, Flipkart, and Myntra.
+* _💡 [View Repository](https://github.com/Palak-Tripathi33-ux/Excel_Sales_Dashboard_Vrinda_Store)_
 
-## Experience
+### 🪔 [Diwali Sales EDA Project](https://github.com/Palak-Tripathi33-ux/Diwali_Sales_Analysis_Python) | `Python` `Pandas` `Seaborn`
 
-* **Digital Marketing Analyst**, ZeTheta Algorithms Pvt. Ltd.
+* **The Insight:** Exploratory data analysis on massive festive-season transaction records.
+* **Action:** Leveraged Pandas and Seaborn to uncover demographic spending drivers; proved that **women aged 26–35** drive highest spend, with IT and healthcare sectors leading purchasing activity.
+* _💡 [View Repository](https://github.com/Palak-Tripathi33-ux/Diwali_Sales_Analysis_Python)_
 
-Benchmarked BFSI customer acquisition cost across 15+ data sources and 3 attribution models; built a freemium go-to-market model with 3-year financial projections and an LTV:CAC framework.
+---
 
-* **Human Resources Intern**, SkillCraft Technology
+## 💼 Professional Experience
 
-Drafted a salary-benchmarked job description for a Data Analyst role (₹7–10 LPA, Bangalore market). Designed a 30-day onboarding plan with weekly milestones and an IT access checklist. Conducted a quarterly performance appraisal using a 5-point rating scale and built a 3-point KPI improvement plan. Researched attrition drivers and proposed a retention plan targeting a reduction from 15% to under 8%.
+### 📊 Digital Marketing Analyst
+**ZeTheta Algorithms Pvt. Ltd.**
 
-## Certifications
+* Benchmarked BFSI customer acquisition cost (CAC) across **15+ diverse data sources** and 3 specific attribution models.
+* Strategized and built a freemium go-to-market model backed by **3-year financial projections** and a robust LTV:CAC framework.
 
-* Business Analytics Specialization (Wharton Online)
-* Introduction to Project Management (IBM)
-* Data Analytics Job Simulation (Deloitte via Forage)
-* AI for Customer Experience: CX Automation and Analytics (Udemy)
-* MS Office With Canva: Word, Excel, PowerPoint, Canva All in One (Udemy)
+### 👥 Human Resources Intern
+**SkillCraft Technology**
 
-## Learning
+* Market-researched attrition drivers and engineered a tactical retention plan aimed at slashing attrition from **15% to under 8%**.
+* Structured salary-benchmarked JDs (₹7–10 LPA, Bangalore market), a 30-day corporate onboarding flow, and implemented a 5-point performance appraisal framework.
 
-SQL query optimization and advanced DAX patterns for large-scale data models.
+---
 
-## Open to Collaborate On
+## 🎓 Certifications
 
-Business intelligence dashboards, financial and retail analytics projects, and data cleaning/EDA work in Python.
+* 📜 **Business Analytics Specialization** – Wharton Online
+* 🛠️ **Introduction to Project Management** – IBM
+* 💼 **Data Analytics Job Simulation** – Deloitte (via Forage)
+* 🤖 **AI for Customer Experience: CX Automation & Analytics** – Udemy
+* 🎨 **MS Office With Canva: Advanced Workflows** – Udemy
 
-## Looking for Help With
+---
 
-Deployment and sharing workflows for Power BI reports, and structuring SQL databases for analytics pipelines.
+## 🧠 Continuous Growth & Connect
 
-## Ask Me About
+* 📖 **Currently Learning:** Deep diving into SQL query optimization strategies and complex, nested DAX patterns for large-scale enterprise data models.
+* 🤝 **Open to Collaborate On:** Advanced business intelligence setups, financial/retail modeling, and end-to-end Python EDA pipelines.
+* 💬 **Ask Me About:** Power BI theme building, customer segmentation logic, and survey-based consumer behavior research.
 
-Power BI dashboard design, DAX measures, customer segmentation, and survey-based market research.
-
-## Pronouns
-
-She/her
-
-
+<p align="center">
+  <b>Pronouns:</b> She/Her • <b>Let's build something insightful!</b>
+</p>
