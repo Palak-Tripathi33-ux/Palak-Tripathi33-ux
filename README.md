@@ -1,12 +1,17 @@
-# Palak Tripathi
+# Palak Tripathi 🚀
+### Business Analyst | Power BI • SQL • DAX • Python • Tableau
 
-Business Analyst | Power BI · SQL · DAX · Python · Tableau
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnitripathi33) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinnitripathi33@gmail.com)
 
-BBA student (CGPA 8.29) building BI dashboards and analytical models across BFSI, e-commerce, and HR data. Focused on turning raw transactional data into decision-ready reports using Power Query, DAX, and SQL.
+**Detail-oriented BBA student (CGPA 8.29) with a proven track record in Market Research, Consumer Behavior, and Data Analytics.** I specialize in bridging the gap between business strategy and data, building robust BI dashboards and analytical models across **BFSI (Banking), Retail/E-commerce, and Human Resources (HR)** domains. 
 
-## Currently Working On
+Focused on turning raw, complex transactional data into data-driven, decision-ready reports using Power Query, advanced DAX, and SQL pipelines.
 
-Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
+---
+
+## ⏳ Currently Working On
+* **Blinkit Sales Analytics Dashboard (Power BI)** — analyzing $1.20M in sales across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
 
 ## 🛠️ Tech Stack
 
@@ -87,7 +92,4 @@ Power BI dashboard design, DAX measures, customer segmentation, and survey-based
 
 She/her
 
-## Connect
-
-[LinkedIn](https://linkedin.com/in/palak-tripathi-37a56234a) · vinnitripathi33@gmail.com · 
 
