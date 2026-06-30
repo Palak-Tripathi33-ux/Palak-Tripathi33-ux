@@ -44,9 +44,13 @@ Exploratory data analysis on festive-season transactions; identified that women 
 
 Benchmarked BFSI customer acquisition cost across 15+ data sources and 3 attribution models; built a freemium go-to-market model with 3-year financial projections and an LTV:CAC framework.
 
+**Human Resources Intern**, SkillCraft Technology
+
+Drafted a salary-benchmarked job description for a Data Analyst role (₹7–10 LPA, Bangalore market). Designed a 30-day onboarding plan with weekly milestones and an IT access checklist. Conducted a quarterly performance appraisal using a 5-point rating scale and built a 3-point KPI improvement plan. Researched attrition drivers and proposed a retention plan targeting a reduction from 15% to under 8%.
+
 ## Certifications
 
-Business Analytics Specialization (Wharton Online), Introduction to Project Management (IBM), Advanced Leadership Skills (IIM Ahmedabad)
+Business Analytics Specialization (Wharton Online), Introduction to Project Management (IBM), Advanced Leadership Skills (IIM Ahmedabad), Data Analytics Job Simulation (Deloitte via Forage), AI for Customer Experience: CX Automation and Analytics (Udemy), MS Office With Canva: Word, Excel, PowerPoint, Canva All in One (Udemy).
 
 ## Learning
 
