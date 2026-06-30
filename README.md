@@ -10,11 +10,13 @@ Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales acros
 
 ## Tech Stack
 
-* **Languages & Query:** Python, SQL (PostgreSQL), DAX
+* **Languages & Query:** Python (Pandas, NumPy, Seaborn), SQL (PostgreSQL), DAX
 
-* **BI & Visualization:** Power BI, Tableau, Excel (Advanced), Looker Studio
+* **BI & Visualization:** Power BI, Tableau, Excel (Advanced: PivotTables, VLOOKUP/XLOOKUP, Power Query), Looker Studio
 
-* **Tools:** Power Query, Google Sheets, Zoho, Jibble
+* **Data & Reporting:** Data Cleaning, Exploratory Data Analysis, Dashboard Design, Report Automation
+
+* **Tools:** Power Query, Google Sheets, Canva, Zoho, Jibble
 
 ## Featured Projects
 
