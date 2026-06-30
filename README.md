@@ -10,11 +10,11 @@ Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales acros
 
 ## Tech Stack
 
-**Languages & Query:** Python, SQL (PostgreSQL), DAX
+* **Languages & Query:** Python, SQL (PostgreSQL), DAX
 
-**BI & Visualization:** Power BI, Tableau, Excel (Advanced), Looker Studio
+* **BI & Visualization:** Power BI, Tableau, Excel (Advanced), Looker Studio
 
-**Tools:** Power Query, Google Sheets, Zoho, Jibble
+* **Tools:** Power Query, Google Sheets, Zoho, Jibble
 
 ## Featured Projects
 
@@ -22,29 +22,29 @@ Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales acros
 
 Built a PostgreSQL-to-Power BI pipeline analyzing $55M in revenue across 1M+ transactions. Segmented customers into 6 job groups and 5 income bands using DAX, and identified a $14M peak quarter through QoQ trend analysis across swipe, chip, and online channels.
 
-**E-Commerce Analytics** — Power BI
+* **E-Commerce Analytics** — Power BI
 
 Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
 
-**Vrinda Store Sales Dashboard** — Excel
+* **Vrinda Store Sales Dashboard** — Excel
 
 Interactive dashboard analyzing 31,000+ transactions and ₹21.17M in revenue, tracking customer demographics, top states, and channel performance across Amazon, Flipkart, and Myntra.
 
-**Blinkit Quick-Commerce Analytics** — Power BI
+* **Blinkit Quick-Commerce Analytics** — Power BI
 
 Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
 
-**Diwali Sales Analysis** — Python (Pandas, Seaborn)
+* **Diwali Sales Analysis** — Python (Pandas, Seaborn)
 
 Exploratory data analysis on festive-season transactions; identified that women aged 26–35 drive the highest spend, with IT and healthcare sectors showing the strongest purchasing activity.
 
 ## Experience
 
-**Digital Marketing Analyst**, ZeTheta Algorithms Pvt. Ltd.
+* **Digital Marketing Analyst**, ZeTheta Algorithms Pvt. Ltd.
 
 Benchmarked BFSI customer acquisition cost across 15+ data sources and 3 attribution models; built a freemium go-to-market model with 3-year financial projections and an LTV:CAC framework.
 
-**Human Resources Intern**, SkillCraft Technology
+* **Human Resources Intern**, SkillCraft Technology
 
 Drafted a salary-benchmarked job description for a Data Analyst role (₹7–10 LPA, Bangalore market). Designed a 30-day onboarding plan with weekly milestones and an IT access checklist. Conducted a quarterly performance appraisal using a 5-point rating scale and built a 3-point KPI improvement plan. Researched attrition drivers and proposed a retention plan targeting a reduction from 15% to under 8%.
 
