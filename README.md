@@ -5,7 +5,8 @@ Business Analyst | Power BI · SQL · DAX · Python · Tableau
 BBA student (CGPA 8.29) building BI dashboards and analytical models across BFSI, e-commerce, and HR data. Focused on turning raw transactional data into decision-ready reports using Power Query, DAX, and SQL.
 
 ## Currently Working On
-Credit card transaction analytics pipeline (PostgreSQL → Power BI) covering $55M in revenue across 1M+ transactions.
+
+Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales across 8,523 items, with breakdowns by outlet type, outlet size, location tier, and item category.
 
 ## Tech Stack
 
