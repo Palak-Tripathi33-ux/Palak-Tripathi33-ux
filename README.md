@@ -97,9 +97,8 @@
 
 ## 🎓 Certifications
 
-* 📜 **Business Analytics Specialization** – Wharton Online
-* 🛠️ **Introduction to Project Management** – IBM
 * 💼 **Data Analytics Job Simulation** – Deloitte (via Forage)
+* 🛠️ **Introduction to Project Management** – IBM
 * 🤖 **AI for Customer Experience: CX Automation & Analytics** – Udemy
 * 🎨 **MS Office With Canva: Advanced Workflows** – Udemy
 
