@@ -41,11 +41,11 @@ Sales analysis covering $1.20M across 8,523 items, with breakdowns by outlet typ
 
 Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
 
-* **Vrinda Store Sales Dashboard** — Excel
+* **Vrinda Store Sales Dashboard** — Excel 
 
 Interactive dashboard analyzing 31,000+ transactions and ₹21.17M in revenue, tracking customer demographics, top states, and channel performance across Amazon, Flipkart, and Myntra.
 
-* **Diwali Sales Analysis** — Python (Pandas, Seaborn)
+* **Diwali Sales Analysis** — Python (Pandas, Seaborn) [GITHUB](https://github.com/Palak-Tripathi33-ux/Diwali_Sales_Analysis_Python)
 
 Exploratory data analysis on festive-season transactions; identified that women aged 26–35 drive the highest spend, with IT and healthcare sectors showing the strongest purchasing activity.
 
