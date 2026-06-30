@@ -22,7 +22,7 @@ Blinkit Sales Analytics Dashboard (Power BI) — analyzing $1.20M in sales acros
 
 Built a PostgreSQL-to-Power BI pipeline analyzing $55M in revenue across 1M+ transactions. Segmented customers into 6 job groups and 5 income bands using DAX, and identified a $14M peak quarter through QoQ trend analysis across swipe, chip, and online channels.
 
-**E-Commerce Analytics (Power BI)**
+**E-Commerce Analytics** — Power BI
 
 Dashboard visualizing e-commerce KPIs — 438K revenue, 6K orders — with profit trend and category-level breakdowns across Indian states.
 
