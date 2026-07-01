@@ -68,8 +68,6 @@
 * **Action:** Created interactive matrices to breakdown metrics by outlet type, outlet size, location tier, and item category to pinpoint underperforming retail units.
 * _💡 [View Repository](https://github.com/Palak-Tripathi33-ux/Blinkit-Quick-Commerce-Analytics)_
 
-[Github](https://github.com/Palak-Tripathi33-ux/Blinkit_Sales_Analytics_Dashboard.jpeg)
-
 ### 📦 [E-Commerce Analytics Dashboard](https://github.com/Palak-Tripathi33-ux/E-Commerce-Analytics-PowerBI) | `Power BI` `UI/UX`
 
 * **The Insight:** High-level overview of critical e-commerce KPIs capturing **438K revenue** across 6K orders.
