@@ -19,8 +19,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Palak-Tripathi33-ux&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak-Tripathi33-ux&theme=tokyonight" height="165"/>
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Palak-Tripathi33-ux&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Palak-Tripathi33-ux&theme=tokyonight)
 </p>
 
 ---
