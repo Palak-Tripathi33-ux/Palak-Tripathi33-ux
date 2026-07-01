@@ -19,8 +19,16 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Palak-Tripathi33-ux&show_icons=true&theme=tokyonight)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Palak-Tripathi33-ux&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Palak-Tripathi33-ux&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-Tripathi33-ux&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak-Tripathi33-ux&theme=tokyonight" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-Tripathi33-ux&theme=react-dark" width="100%"/>
 </p>
 
 ---
