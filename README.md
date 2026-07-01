@@ -16,7 +16,6 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -34,9 +33,20 @@
 
 ---
 
+## 🔥 Recent Activity
+
+* 🚀 **143 contributions** in the last year and counting — actively pushing new work every week.
+* 🗓️ Started my GitHub journey on **June 7, 2026** with my first repository.
+* 💻 **120 commits across 9 repositories** in June 2026 alone — building out my Power BI, SQL, and Python portfolio from the ground up.
+* 🔧 Kept the momentum going with **14 fresh commits** on July 1, 2026, refining existing dashboards and analysis scripts.
+* 📈 Consistently shipping — check the contribution graph above for the latest activity.
+
+---
+
 ## ⏳ Currently Working On
 
 * 📊 **Blinkit Sales Analytics Dashboard (Power BI)** — Optimizing dynamic DAX measures to analyze $1.20M in sales across 8,523 items, with granular breakdowns by outlet type, size, location tier, and item category.
+* 🧹 Polishing and pushing regular commits to consolidate all portfolio projects (Credit Card Analytics, Blinkit, E-Commerce, Vrinda Store, Diwali Sales) into clean, well-documented repositories.
 
 ---
 
