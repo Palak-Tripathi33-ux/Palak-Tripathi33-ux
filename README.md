@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> **Detail-oriented BBA student (CGPA 8.29) with a proven track record in Market Research, Consumer Behavior, and Data Analytics.** I specialize in bridging the gap between business strategy and data, building robust BI dashboards and analytical models across **BFSI (Banking), Retail/E-commerce, and Human Resources (HR)** domains. 
+> **Detail-oriented BBA student (CGPA 8.29) with a proven track record in Market Research, Consumer Behavior, and Data Analytics.** I specialize in bridging the gap between business strategy and data, building robust BI dashboards and analytical models across **BFSI (Banking), Retail/E-commerce, and Financial Analytics** domains. 
 > 
 > Focused on turning raw, complex transactional data into data-driven, decision-ready reports using Power Query, advanced DAX, and SQL pipelines.
 
