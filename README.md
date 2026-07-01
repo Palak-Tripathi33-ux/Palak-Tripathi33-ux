@@ -16,11 +16,12 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Palak-Tripathi33-ux&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-Tripathi33-ux&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Palak-Tripathi33-ux&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-Tripathi33-ux&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="left">
@@ -28,7 +29,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-Tripathi33-ux&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-Tripathi33-ux&theme=react-dark&cache_seconds=1800" width="100%"/>
 </p>
 
 ---
